@@ -30,3 +30,7 @@ Apart from technology, I enjoy being outdoors. I'm also passionate about bicycle
 <a href="https://github.com/halchester">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=halchester&layout=compact&theme=radical" />
 </a>
+
+### Some of my active projects 
+
+[![Covid19 tracker](<https://img.shields.io/badge/-covid19 tracker -444444?style=flat>)](https://trackthatvirus.netlify.app/)
