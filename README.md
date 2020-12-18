@@ -33,4 +33,5 @@ Apart from technology, I enjoy being outdoors. I'm also passionate about bicycle
 
 ### Some of my active projects 
 
-[![Covid19 tracker](<https://img.shields.io/badge/-covid19 tracker -444444?style=flat>)](https://trackthatvirus.netlify.app/)
+[![Covid19 tracker](<https://img.shields.io/badge/-Covid19 tracker -444444?style=flat>)](https://trackthatvirus.netlify.app/)
+[![Weather App](<https://img.shields.io/badge/-Weather app -444444?style=flat>)](https://getmeweather.netlify.app/)
