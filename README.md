@@ -31,6 +31,7 @@ Apart from technology, I enjoy being outdoors. I'm also passionate about bicycle
 
 <a href="https://github.com/halchester">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=halchester&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=halchester&show_icons=true&theme=radical&line_height=21">
 </a>
 
 ### Some of my active projects 
