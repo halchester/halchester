@@ -36,6 +36,10 @@ Apart from technology, I enjoy being outdoors. I'm also passionate about bicycle
 
 ### Some of my active projects 
 
+Recipe app is not live but you can check the github repo.
+
 [![Weather App](<https://img.shields.io/badge/-Weather app -444444?style=flat>)](https://getmeweather.netlify.app/)
 [![Amazon Clone](<https://img.shields.io/badge/-Amazon Clone -444444?style=flat>)](https://clone-45d27.web.app/)
 [![Coders Hub](<https://img.shields.io/badge/-Coders Hub -444444?style=flat>)](https://coders-hub.netlify.app/)
+[![Recipe App](<https://img.shields.io/badge/-Recipe App -444444?style=flat>)](https://github.com/halchester/Recipe-App)
+
