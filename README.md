@@ -1,6 +1,6 @@
 ### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm an ungergrad at MIIT Mandalay. I'm learning python and Django. I'm passionate about technologies since I was 15. If you plan to collaborate with me, feel free to DM me on twitter at @halChester02 or can reach me via mail.
+Ungrad at MIIT, Mandalay. Passionate about technology. Into JS and python. Can reach me with the links below.
 
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chester.htooaunglinn@gmail.com)
