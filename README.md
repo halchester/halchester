@@ -8,22 +8,25 @@ Ungrad at MIIT, Mandalay. Passionate about technology. Into JS and python. Can r
 
 ### Main Weapons that I use 🔫
 
-<span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/javascript.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
-
+<span><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
+<span><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></span>
 ### My sideswords ⚔️
 
-<span><img src="https://img.icons8.com/color/48/000000/django.png"/></span>
-<span><img src="https://img.icons8.com/color/50/000000/react-native.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/flutter.png"/></span>
-<span><img src="https://img.icons8.com/color/50/000000/material-ui.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
+<span><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></span>
+<span><img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/></span>
+<span><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
+<span><img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/></span>
+<span><img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></span>
+<span><img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/></span>
+<span><img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></span>
+<span><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 
 ### Other technologies that I'm familiar with 
 
-<span><img src="https://img.icons8.com/color/48/000000/git.png"/></span>
-<span><img src="https://img.icons8.com/doodle/48/000000/console--v2.png"/></span>
+<span><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
+<span><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></span>
+<span><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></span>
 
 ### My Passions
 
