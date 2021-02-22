@@ -1,6 +1,6 @@
 ### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Ungrad at MIIT, Mandalay. Passionate about technology. Into JS and python. Can reach me with the links below.
+CS undergrad. React and express developer. A very chill guy. Can reach me with the links below.
 
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chester.htooaunglinn@gmail.com)
