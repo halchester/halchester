@@ -20,13 +20,6 @@ CS undergrad. React and express developer. A very chill guy. Can reach me with t
 <span><img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></span>
 <span><img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/></span>
 
-### My Passions
-
-Apart from technology, I enjoy being outdoors. I'm also passionate about bicycles 🚴 You can also find me on strava too. 
-
-![Chester's GitHub stats](https://github-readme-stats.vercel.app/api?username=halchester&theme=graywhite&show_icons=true&hide=contribs,prs)
-
-
 ### Some of my active projects 
 
 Recipe app is not live but you can check the github repo.
