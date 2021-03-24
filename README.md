@@ -1,3 +1,4 @@
+<!--
 ### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 CS undergrad. React and express developer. A very chill guy. Can reach me with the links below.
@@ -30,3 +31,15 @@ Recipe app is not live but you can check the github repo.
 [![Recipe App](<https://img.shields.io/badge/-Recipe App -444444?style=flat>)](https://github.com/halchester/Recipe-App)
 [![Markdown Renderer](<https://img.shields.io/badge/-Markdown Renderer -444444?style=flat>)](https://markdown-renderer.netlify.app/)
 [![Check your git](<https://img.shields.io/badge/-Github info -444444?style=flat>)](https://checkyourgit.netlify.app/)
+-->
+
+<br/>
+<a href="https://www.usatoday.com/in-depth/graphics/2021/03/20/myanmar-military-coup-protests-violence-deaths-burma-videos/6868486002/">
+<p align="center">
+  <img src="https://i.imgur.com/6uklVWM.png"/>
+</p>
+<br/>
+<p align="center">
+  Raise awareness about serious human right violations by the military and police happening in Myanmar. Help us!
+</p>
+</a>
