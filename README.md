@@ -43,5 +43,31 @@ Recipe app is not live but you can check the github repo.
   Raise awareness about serious human right violations by the military and police happening in Myanmar. Help us!
 </p>
 </a>
-<!-- <img style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=halchester&hide=issues&show_icons=trueh&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=blue" />
-<img style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=halchester&layout=compact&hide_border=true&count_private=false&extra=ashbot/website&theme=blue" /> -->
+
+### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+A CS undergrad, loves react-ecosystem, Typescript and Web. Trying to make web app that's helpful for people. 
+A completely `self-taught Web Engineer` with a year of experience. Fluent in most React UI libraries and state management. 
+HMU if you interested in collaborating with me!
+
+[![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chester.htooaunglinn@gmail.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/halChester02?label=Tweets%21&style=social)
+
+### Projects
+
+See `Pinned Repos`
+
+### Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=merko&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
+</p>
+
+### Tools 
+<p>
+<img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
+<img src = "https://img.shields.io/badge/-MongoDB-white?logo=mongodb&logoColor=green&style=flat" />
+<img src = "https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat" />
+<img src = "https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=flat" />
+<img src = "https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat" />
+</p>
+
