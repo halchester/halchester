@@ -57,6 +57,7 @@ HMU if you interested in collaborating with me!
 
 See `Pinned Repos`
 
+
 ### Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=merko&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
@@ -70,4 +71,7 @@ See `Pinned Repos`
 <img src = "https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=flat" />
 <img src = "https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
+
 
