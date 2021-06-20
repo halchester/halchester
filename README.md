@@ -73,6 +73,13 @@ See `Pinned Repos`
 </p>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   3 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.52 % 
+TypeScript   3 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+JSX          3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+SCSS         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
