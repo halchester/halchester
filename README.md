@@ -72,6 +72,9 @@ See `Pinned Repos`
 <img src = "https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
 
 
