@@ -59,9 +59,10 @@ See `Pinned Repos`
 
 
 ### Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=merko&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
+</span>
+  
+![](http://github-readme-streak-stats.herokuapp.com?user=halchester&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 
 ### Tools 
 <p>
@@ -83,5 +84,4 @@ Markdown     10 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
-
 
