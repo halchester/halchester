@@ -75,11 +75,11 @@ See `Pinned Repos`
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   14 hrs 34 mins  ██████████████████████▒░░   89.32 % 
-Other        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript   11 hrs 22 mins  █████████████████████░░░░   84.47 % 
+Other        1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 
