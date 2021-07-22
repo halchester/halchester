@@ -39,9 +39,6 @@ Recipe app is not live but you can check the github repo.
   <img src="https://i.imgur.com/6uklVWM.png"/>
 </p>
 <br/>
-<p align="center">
-  Raise awareness about serious human right violations by the military and police happening in Myanmar. Help us!
-</p>
 </a>
 
 ### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
