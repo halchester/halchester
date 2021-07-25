@@ -43,9 +43,8 @@ Recipe app is not live but you can check the github repo.
 
 ### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A CS undergrad, loves react-ecosystem, Typescript and Web. Trying to make web app that's helpful for people. 
-A completely `self-taught Web Engineer` with a year of experience. Fluent in most React UI libraries and state management. 
-HMU if you interested in collaborating with me!
+A CS undergrad, FS dev who loves react-ecosystem, Typescript and Web. Trying to make apps that's helpful for people. 
+A completely `self-taught Software Engineer` with years of experience in `Web Engineering`. HMU if you interested in collaborating with me!
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chester.htooaunglinn@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/halChester02?label=Tweets%21&style=social)
@@ -54,8 +53,8 @@ HMU if you interested in collaborating with me!
 
 See `Pinned Repos`
 
-
-### Stats
+<details>
+  <summary>Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
 </span>
   
@@ -81,4 +80,4 @@ JSON         20 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
-
+</details>
