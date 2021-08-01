@@ -33,21 +33,16 @@ Recipe app is not live but you can check the github repo.
 [![Check your git](<https://img.shields.io/badge/-Github info -444444?style=flat>)](https://checkyourgit.netlify.app/)
 -->
 
-<br/>
-<a href="https://www.usatoday.com/in-depth/graphics/2021/03/20/myanmar-military-coup-protests-violence-deaths-burma-videos/6868486002/">
-<p align="center">
-  <img src="https://i.imgur.com/6uklVWM.png"/>
+<p align='center'>
+  <samp>
+    <a href="https://halchester.vercel.app">me</a> -
+    <a href="https://docs.google.com/document/d/1xyqz4IjylR3-8BPGsatVdSUy8FzSIfByEZcqJ6hL9pQ/edit?usp=sharing">resume</a> -
+    <a href="https://www.instagram.com/hal_chester/">instagram</a> -
+    <a href="https://twitter.com/halChester02">twitter</a> -
+    <a href="https://t.me/chester22222">telegram</a> -
+    <a href="mailto:chester.htooaunglinn@gmail.com">email</a>
+    </smap>
 </p>
-<br/>
-</a>
-
-### Hey there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-A CS undergrad, FS dev who loves react-ecosystem, Typescript and Web. Trying to make apps that's helpful for people. 
-A completely `self-taught Software Engineer` with years of experience in `Web Engineering`. HMU if you interested in collaborating with me!
-
-[![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chester.htooaunglinn@gmail.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/halChester02?label=Tweets%21&style=social)
 
 ### Projects
 
