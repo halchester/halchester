@@ -53,8 +53,6 @@ See `Pinned Repos`
 <img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
 </span>
   
-![](http://github-readme-streak-stats.herokuapp.com?user=halchester&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-
 ### Tools 
 <p>
 <img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
