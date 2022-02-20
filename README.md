@@ -62,8 +62,6 @@ See `Pinned Repos`
 
 <!--START_SECTION:waka-->
 ```text
-Total: 9 hrs 32 mins
-
 TypeScript   9 hrs 20 mins   ████████████████████████▒   97.73 % 
 Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
