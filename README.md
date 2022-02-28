@@ -61,12 +61,16 @@ See `Pinned Repos`
 </p>
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   7 hrs           ████████████████████████▒   97.37 % 
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript   5 hrs 32 mins   ████████████████████████░   95.54 %
+Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
