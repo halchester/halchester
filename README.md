@@ -34,7 +34,7 @@ Recipe app is not live but you can check the github repo.
 <p align='center'>
   <samp>
     <a href="https://halchester.vercel.app">me</a> -
-    <a href="https://docs.google.com/document/d/1xyqz4IjylR3-8BPGsatVdSUy8FzSIfByEZcqJ6hL9pQ/edit?usp=sharing">resume</a> -
+    <a href="https://drive.google.com/file/d/1bqw-NvE90uYlIRHT775NAvtuhUIuSDPU/view?usp=sharing">resume</a> -
     <a href="https://www.instagram.com/hal_chester/">instagram</a> -
     <a href="https://twitter.com/halChester02">twitter</a> -
     <a href="https://t.me/chester22222">telegram</a> -
