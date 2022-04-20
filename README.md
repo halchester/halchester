@@ -63,8 +63,7 @@ See `Pinned Repos`
 <!--START_SECTION:waka-->
 
 ```text
-JSON         15 mins         ███████████████████▒░░░░░   77.81 %
-Other        2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
