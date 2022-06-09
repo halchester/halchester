@@ -63,10 +63,7 @@ See `Pinned Repos`
 <!--START_SECTION:waka-->
 
 ```text
-JSON         2 mins          ███████████░░░░░░░░░░░░░░   43.93 %
-Git Config   2 mins          ████████▒░░░░░░░░░░░░░░░░   32.94 %
-TypeScript   1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
