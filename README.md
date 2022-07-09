@@ -63,12 +63,11 @@ See `Pinned Repos`
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       5 hrs 56 mins   ██████████▒░░░░░░░░░░░░░░   41.70 %
-TypeScript   3 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 %
-JavaScript   3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
-CSS          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Vue.js       9 hrs 29 mins   █████████████░░░░░░░░░░░░   51.75 %
+JavaScript   5 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.71 %
+TypeScript   2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+CSS          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
