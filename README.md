@@ -63,8 +63,8 @@ See `Pinned Repos`
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       18 hrs 30 mins  ██████████████████░░░░░░░   71.80 %
-TypeScript   3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Vue.js       18 hrs 30 mins  ██████████████████░░░░░░░   71.82 %
+TypeScript   3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
 JavaScript   1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 CSS          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
