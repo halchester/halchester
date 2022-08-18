@@ -33,31 +33,12 @@ Recipe app is not live but you can check the github repo.
 
 <p align='center'>
   <samp>
-    <a href="https://halchester.vercel.app">me</a> -
-    <a href="https://drive.google.com/file/d/1bqw-NvE90uYlIRHT775NAvtuhUIuSDPU/view?usp=sharing">resume</a> -
+    <a href="https://halchester.dev">me</a> -
     <a href="https://www.instagram.com/hal_chester/">instagram</a> -
     <a href="https://twitter.com/halChester02">twitter</a> -
     <a href="https://t.me/chester22222">telegram</a> -
     <a href="mailto:chester.htooaunglinn@gmail.com">email</a>
     </smap>
-</p>
-
-### Projects
-
-See `Pinned Repos`
-
-<details>
-  <summary>Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=halchester&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&line_height=20" alt="Chester's Github Statistics" />
-</span>
-  
-### Tools 
-<p>
-<img src = "https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
-<img src = "https://img.shields.io/badge/-MongoDB-white?logo=mongodb&logoColor=green&style=flat" />
-<img src = "https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white&style=flat" />
-<img src = "https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logoColor=white&style=flat" />
-<img src = "https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat" />
 </p>
 
 <!--START_SECTION:waka-->
@@ -74,4 +55,3 @@ Python       10 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=halchester&color=blueviolet&label=Profile+Views)
-</details>
