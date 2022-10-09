@@ -44,12 +44,12 @@ Recipe app is not live but you can check the github repo.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-Vue.js       2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-Python       2 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-TypeScript   1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-JSON         1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-YAML         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JavaScript   6 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   39.17 %
+Vue.js       2 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Python       2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+YAML         2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+JSON         1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+Terraform    27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
