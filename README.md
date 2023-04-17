@@ -44,12 +44,12 @@ Recipe app is not live but you can check the github repo.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 3 mins   ██████████████░░░░░░░░░░░   55.47 %
-Svelte       6 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.66 %
-Python       1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript   13 hrs 3 mins   ███████████████░░░░░░░░░░   59.76 %
+Svelte       6 hrs 30 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TSConfig     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
