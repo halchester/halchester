@@ -4,7 +4,7 @@
 
 I work at [Audix](https://audix.io), a SaaS platform that focuses on solving companies' need for audit managments.
 
-In my free time, I just lift heavy metal plates of the ground, go around with a camera and drink coffee.
+In my free time, I just lift heavy metal plates off the ground, go around with a camera and drink coffee.
 
 Some of the things I have worked on:
 
